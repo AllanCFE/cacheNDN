@@ -1,16 +1,19 @@
-# Referências
-**Título:** A comprehensive and configurable simulation environment for supporting vehicular named-data networking applications  
-**Revista:** Computer Networks  
+# References
+**Title:** A comprehensive and configurable simulation environment for supporting vehicular named-data networking applications  
+**Journal:** Computer Networks  
 **Volume:** 235  
-**Páginas:** 109949  
-**Ano:** 2023  
+**Pages:** 109949  
+**Year:** 2023  
 **DOI:** [10.1016/j.comnet.2023.109949](https://doi.org/10.1016/j.comnet.2023.109949)  
-**Autores:** Guilherme Araujo, Maycon Peixoto, Leobino Sampaio
+**Authors:** Guilherme Araujo, Maycon Peixoto, Leobino Sampaio
 
-**Título:** ndnSIM 2: An updated NDN simulator for NS-3  
+**Title:** ndnSIM 2: An updated NDN simulator for NS-3  
 **Instituição:** NDN  
 **Número:** NDN-0028, Revision 2  
 **Tipo:** Technical Report  
-**Ano:** 2016  
-**Autores:** Spyridon Mastorakis, Alexander Afanasyev, Ilya Moiseenko, Lixia Zhang  
-**Mês:** novembro
+**Year:** 2016  
+**Authors:** Spyridon Mastorakis, Alexander Afanasyev, Ilya Moiseenko, Lixia Zhang  
+**Month:** novembro
+
+# Link to virtual Machine
+Initially, the files for the NS-3 folder were available in this GitHub repository, but this was causing some errors when trying to reproduce the study. To avoid these issues, I am providing a link to reproduce the entire virtual machine (VirtualBox) in this [Google Drive link](https://drive.google.com/drive/u/0/)
