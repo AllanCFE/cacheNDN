@@ -16,4 +16,4 @@
 **Month:** novembro
 
 # Link to virtual Machine
-Initially, the files for the NS-3 folder were available in this GitHub repository, but this was causing some errors when trying to reproduce the study. To avoid these issues, I am providing a link to reproduce the entire virtual machine (VirtualBox) in this [Google Drive link](https://drive.google.com/drive/u/0/)
+Initially, the files for the NS-3 folder were available in this GitHub repository, but this was causing some errors when trying to reproduce the study. To avoid these issues, I am providing a link to reproduce the entire virtual machine (VirtualBox) in this [Google Drive link](https://drive.google.com/file/d/1g-qUGiBcjo-8dDiSBjjT7cxlwfGYtRKM/view?usp=sharing)
